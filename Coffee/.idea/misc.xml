@@ -3,15 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/drawable/bg_main_circle.xml" value="0.1953125" />
         <entry key="..\:/git_project/Android/Coffee/app/src/main/res/drawable/bg_main_gradation.xml" value="0.21822916666666667" />
         <entry key="..\:/git_project/Android/Coffee/app/src/main/res/drawable/bg_main_round.xml" value="0.21822916666666667" />
+        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/drawable/bg_main_round_box.xml" value="0.1953125" />
+        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/drawable/ic_photo.xml" value="0.1953125" />
+        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/drawable/popup_my_recipe.xml" value="0.1953125" />
         <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/activity_history.xml" value="0.22" />
         <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/activity_home.xml" value="0.22" />
         <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/activity_map.xml" value="0.1" />
-        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/activity_my_recipe.xml" value="0.1" />
-        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/activity_my_recipe.xml" value="0.14666666666666667" />
+        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/activity_settings.xml" value="0.16666666666666666" />
+        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/activity_splash.xml" value="0.14666666666666667" />
+        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/item_my_recipe.xml" value="0.22" />
         <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/popup_cafe_info.xml" value="0.25" />
+        <entry key="..\:/git_project/Android/Coffee/app/src/main/res/layout/popup_my_recipe.xml" value="0.16666666666666666" />
         <entry key="..\:/git_project/Android/Coffee/app/src/main/res/menu/menu.xml" value="0.1" />
         <entry key="..\:/git_project/ToyProject/Coffee/app/src/main/res/layout/activity_main.xml" value="0.2921195652173913" />
       </map>

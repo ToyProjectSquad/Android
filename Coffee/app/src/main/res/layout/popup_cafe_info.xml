@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@drawable/bg_main_round"
+    android:background="@drawable/bg_main_round_box"
     android:backgroundTint="#E8D1B8">
 
     <TextView
@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:text="세부내용"
         android:textSize="20dp"
-        android:background="@drawable/bg_main_round"
+        android:background="@drawable/bg_main_round_box"
         android:backgroundTint="#fff"
         app:layout_constraintTop_toBottomOf="@id/txt_cafeName"
         app:layout_constraintStart_toStartOf="parent"

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/img_pic"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        app:srcCompat="@drawable/ic_photo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="18dp"
+        android:layout_marginStart="18dp"
+        android:background="@drawable/bg_main_round_box"
+        android:backgroundTint="#00000029"/>
+
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="제목"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toEndOf="@id/img_pic"
+        android:layout_marginTop="24dp"
+        android:layout_marginStart="18dp"
+        android:textSize="20dp"
+        android:textColor="#333"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt_contents"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="사이즈/카페인"
+        app:layout_constraintTop_toBottomOf="@id/txt_title"
+        app:layout_constraintStart_toEndOf="@id/img_pic"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="38dp"
+        android:textSize="14dp"
+        android:textColor="#333"
+        android:textStyle="bold"/>
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#9D9D9D"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/img_pic"
+        android:layout_marginStart="18dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginTop="18dp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
